@@ -1,6 +1,6 @@
 # Replication Package
 
-This **replication package** contains the following materials for the paper: ***Assessing UML Models by GPT: Implications for Education***
+This **replication package** contains the following materials for the paper: ***Assessing UML Diagrams by GPT: Implications for Education***
 
 - ***CaseStudy&SuggestedAnswers.pdf***: The PDF file provides the case study of a specified UML modeling task and the suggested answers.
 - ***Evaluation Process of UML Diagrams by ChatGPT.docx***: The evaluation process of UML diagrams conducted by ChatGPT and an example.
